@@ -31,5 +31,6 @@
   line-height: 41px;
   border-top-width: 87px;
   padding-left: 31px;
-  font-size: 37px;
+  padding-right: 8px;
+  border-bottom-width: 7px;
 }
